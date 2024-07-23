@@ -1,1 +1,1 @@
-# Portfolio-page
+Add portfolio page files including HTML, CSS, and JavaScript. This project provides a sleek and responsive personal portfolio template. Features include sections for showcasing projects, skills, and contact information. The design is modern and customizable, with smooth navigation and interactive elements to enhance user experience.
